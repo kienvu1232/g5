@@ -18,6 +18,12 @@ public class Application {
         System.out.println("lan cuoi");
         System.out.println("lan cuoi");
         System.out.println("lan cuoi");
+        System.out.println("lan cuoi");
+        System.out.println("lan cuoi");
+        System.out.println("lan cuoi");
+        System.out.println("lan cuoi");
+        
+        
     } 
     
 }

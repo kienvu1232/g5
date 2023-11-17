@@ -9,5 +9,7 @@ package com.g5.entity;
  * @author admin
  */
 public class NhanVien {
-    
+    public static void main(String[] args) {
+        System.out.println("5555");
+    }
 }
